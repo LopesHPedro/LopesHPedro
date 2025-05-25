@@ -3,7 +3,7 @@
 ### 🏡 Seja bem-vindo ao meu perfil, mi casa su casa!
 
 
-Ainda faltam algumas coisas, mas com o passar do tempo vou aprimorando. 👍😁👍🏻
+Ainda faltam algumas coisas, mas com o passar do tempo vou aprimorando.👍😁👍🏻
 
 É como diz o ditado **"antes feito do que perfeito!"** 🤠
 
