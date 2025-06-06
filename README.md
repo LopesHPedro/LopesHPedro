@@ -17,6 +17,9 @@
   <a href="https://www.kaggle.com/LopesHPedro" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" height="30px"/>
   </a>
+</p>
+
+<p align="center">
   <a href="https://t.me/LopesHPedro" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="30px"/>
   </a>
