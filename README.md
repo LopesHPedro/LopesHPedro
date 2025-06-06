@@ -12,16 +12,16 @@
 ## 📲 Find Me Here
 <p align="center">
   <a href="https://www.linkedin.com/in/LopesHPedro" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40px"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35px"/>
   </a>
   <a href="https://www.kaggle.com/LopesHPedro" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" height="40px"/>
+    <img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" height="35px"/>
   </a>
   <a href="https://t.me/LopesHPedro" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="40px"/>
+    <img src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="35px"/>
   </a>
   <a href="https://www.instagram.com/Lopesh_pedro" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-critical?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="40px"/>
+    <img src="https://img.shields.io/badge/Instagram-Follow-critical?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="35px"/>
   </a>
 </p>
 
