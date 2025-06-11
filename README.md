@@ -46,9 +46,7 @@
     <img width="600" src="https://github-readme-stats.vercel.app/api/wakatime?username=lopeshpedro&title_color=00FF9F&text_color=FFFFFF&icon_color=00FF9F&bg_color=000000" />
   </a>
 </p>
+
 <p align="center">
-  <img src="https://i.gifer.com/ZSj2.gif" width="300" alt="under construction" />
-</p>
-<p align="center">
-  That's me: 🧱 Brick by brick, an empire is built!👷🏻‍♂️
+  "Big things are built quietly. One line of code at a time."
 </p>
