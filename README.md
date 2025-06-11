@@ -47,6 +47,16 @@
   </a>
 </p>
 
+## 🛠️ Tech Stack & Tools
+
 <p align="center">
-  "Big things are built quietly. One line of code at a time."
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=00FF9F" width="150px" height="40px" />
+  <img src="https://img.shields.io/badge/Numpy-black?style=for-the-badge&logo=numpy&logoColor=00FF9F" width="150px" height="40px" />
+  <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=00FF9F" width="150px" height="40px" />
+   <img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=plotly&logoColor=00FF9F" width="150px" height="40px" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=00FF9F" width="150px" height="40px" />
+  <img src="https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=Jupyter&logoColor=00FF9F" width="150px" height="40px" />
 </p>
