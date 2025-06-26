@@ -24,15 +24,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://t.me/LopesHPedro" target="_blank">
-    <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=00FF9F" alt="Telegram" width="300px" height="80px"/>
-  </a>
-  <a href="https://www.instagram.com/Lopesh_pedro" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram&logoColor=00FF9F" alt="Instagram" width="300px" height="80px"/>
-  </a>
-</p>
-
 ## 🚀 GitHub + WakaTime: My Coding Footprint
 
 <p align="center">
