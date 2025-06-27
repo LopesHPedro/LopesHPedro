@@ -17,10 +17,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/LopesHPedro" target="_blank">
-     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=invision&logoColor=00FF9F&labelColor=000000&color=000000" width="300px" height="80px" />
+     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=invision&logoColor=00FF9F&labelColor=000000&color=000000" width="200px" height="80px" />
   </a>
   <a href="https://www.kaggle.com/LopesHPedro" target="_blank">
-    <img src="https://img.shields.io/badge/kaggle-black?style=for-the-badge&logo=kaggle&logoColor=00FF9F" alt="Kaggle" width="300px" height="80px"/>
+    <img src="https://img.shields.io/badge/kaggle-black?style=for-the-badge&logo=kaggle&logoColor=00FF9F" alt="Kaggle" width="200px" height="80px"/>
+  </a>
+  <a href="https://vsco.co/lopeshpedro/gallery" target="_blank">
+    <img src="https://img.shields.io/badge/VSCO-black?style=for-the-badge&logo=vsco&logoColor=00FF9F" alt="VSCO" width="200px" height="80px"/>
   </a>
 </p>
 
