@@ -10,12 +10,6 @@
 ## 📲 Find Me Here
 
 <p align="center">
-  <a href="https://lopeshpedro.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/LopesHPedro.github.io-black?style=for-the-badge&labelColor=000000&color=000000&logo=github&logoColor=00FF9F" width="600px" height="80px" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/LopesHPedro" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=invision&logoColor=00FF9F&labelColor=000000&color=000000" width="200px" height="80px" />
   </a>
