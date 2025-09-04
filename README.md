@@ -1,8 +1,13 @@
-# Lopes
+# Pedro H. Lopes | Análise de Dados
 
-Python | SQL | Análise de Dados
+### 🛠️ Ferramentas:
+Python | C | Notebooks | Lógica de Programação
 
-📂 Projetos:  
+### 💪 Prática:  
+- [EstudosPython](https://github.com/LopesHPedro/EstudosPython/)
+
+### 📂 Projetos:  
 - Em breve...
 
-🌐 [LinkedIn](https://www.linkedin.com/in/lopeshpedro/) | [Kaggle](https://www.kaggle.com/lopeshpedro) | [HackerRank](https://www.hackerrank.com/profile/LopesHPedro)
+### 🌐 Contato:
+[LinkedIn](https://www.linkedin.com/in/lopeshpedro/) | [Kaggle](https://www.kaggle.com/lopeshpedro) | [HackerRank](https://www.hackerrank.com/profile/LopesHPedro)
