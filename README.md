@@ -7,6 +7,7 @@ Python | C | Notebooks | Lógica de Programação
 - [EstudosPython](https://github.com/LopesHPedro/EstudosPython/)
 
 ### 📂 Projetos:  
+- [MissLenaModas](https://github.com/LopesHPedro/MissLenaModas)
 - [LasVagas](https://github.com/LopesHPedro/LasVagas)
 
 ### 🌐 Contato:
