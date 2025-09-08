@@ -1,4 +1,4 @@
-# Pedro H. Lopes | Análise de Dados
+# Pedro H. Lopes 
 
 ### 🛠️ Ferramentas:
 Python | C | Notebooks | Lógica de Programação
