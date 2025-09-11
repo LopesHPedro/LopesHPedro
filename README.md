@@ -4,7 +4,7 @@
 Python | C | Notebooks | Lógica de Programação
 
 ### 💪 Prática:  
-- [EstudosPython](https://github.com/LopesHPedro/EstudosPython/)
+- [WorkaLotLogic](https://github.com/LopesHPedro/WorkaLotLogic/) 👈 Atualmente aqui, me preparando para entrevistas.
 
 ### 📂 Projetos:  
 - [MissLenaModas](https://github.com/LopesHPedro/MissLenaModas)
