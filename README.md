@@ -7,7 +7,6 @@ Python | C | Notebooks | Lógica de Programação
 - [WorkaLotLogic](https://github.com/LopesHPedro/WorkaLotLogic/) 👈 Atualmente aqui, me preparando para entrevistas.
 
 ### 📂 Projetos:  
-- [MissLenaModas](https://github.com/LopesHPedro/MissLenaModas)
 - [LasVagas](https://github.com/LopesHPedro/LasVagas)
 
 ### 🌐 Contato:
