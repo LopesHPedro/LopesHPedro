@@ -17,7 +17,7 @@ Crossing borders: 🇧🇷 🇺🇸 🇪🇸 🇫🇷
 ---
 
 ### 📱 Connect
-<a href="URL_LINKEDIN"><img src="https://img.shields.io/badge/-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="1000""></a>
+<a href="https://www.linkedin.com/in/lopeshpedro/"><img src="https://img.shields.io/badge/-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="1000""></a>
 <a href="https://vsco.co/lopeshpedro/spaces"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=vsco&logoColor=white" height="100"></a>
 <a href="(https://lopeshpedro.github.io/"><img src="https://img.shields.io/badge/-4285F4?style=flat-square&logo=google-chrome&logoColor=white" height="100"></a>
 ---
