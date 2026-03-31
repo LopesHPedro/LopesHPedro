@@ -6,9 +6,9 @@
 **Objetivo:** Construir uma base sólida para o primeiro estágio em T.I.
 
 ### 🏗️ Roadmap de Estudos
-- [ ] [Python](https://github.com/Lopes/python-skill-up)
-- [ ] [Data Structure and Algorithms](https://github.com/Lopes/dsa)
-- [ ] [GFG 160](https://github.com/Lopes/gfg-160-desafio) (desafios de programação)
+- [ ] [Python](https://github.com/LopesHPedro/python-skill-up)
+- [ ] [Data Structure and Algorithms](https://github.com/LopesHPedro/dsa)
+- [ ] [GFG 160](https://github.com/LopesHPedro/gfg-160-desafio) (desafios de programação)
 
 ### 🌿 Lifestyle & Traveller Soul
 Tecnologia, Natureza e Minimalismo.  
