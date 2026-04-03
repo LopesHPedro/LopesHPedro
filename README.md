@@ -7,7 +7,7 @@
 
 ### 🏗️ Roadmap de Estudos
 - [ ] [Python](https://github.com/LopesHPedro/python-skill-up)
-- [ ] [Data Structure and Algorithms](https://github.com/LopesHPedro/dsa)
+- [ ] [Data Structure and Algorithms](https://github.com/LopesHPedro/dsa360)
 - [ ] [GFG 160](https://github.com/LopesHPedro/gfg-160-desafio) (desafios de programação)
 
 ### 🌿 Lifestyle & Traveller Soul
