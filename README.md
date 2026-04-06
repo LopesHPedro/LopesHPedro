@@ -17,7 +17,7 @@ Technology, Nature, and Minimalism.
     </td>
     <td align="center" valign="top" width="50%">
       <h3>📂 Projects</h3>
-      <a href="https://github.com/LopesHPedro/python-skill-up/projetos">Python</a><br><br>
+      <a href="https://github.com/LopesHPedro/python-skill-up/tree/master/projetos/todo_cli">Simple Todo</a><br><br>
     </td>
   </tr>
 </table>
