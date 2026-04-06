@@ -17,7 +17,7 @@ Technology, Nature, and Minimalism.
     </td>
     <td align="center" valign="top" width="50%">
       <h3>📂 Projects</h3>
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1iN2p2NzVhc2k3NXp1YWkxNThzaW95NDNibTk0bnAzcjAxZ2lmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LoM7g4sLUIQdUaWuTh/giphy.gif" width="180" alt="Em Breve">
+      <a href="https://github.com/LopesHPedro/python-skill-up/projetos">Python</a><br><br>
     </td>
   </tr>
 </table>
