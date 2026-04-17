@@ -3,7 +3,7 @@
 # Pedro Henrique Lopes
 *Information Systems Student @ UNIFEI*
 
-Technology, Nature, and Minimalism.  
+Calisthenics. Stoicism. Nature. Tech. Minimalism.
 *Crossing borders:* 🇧🇷 🇺🇸 🇪🇸 🇫🇷
 
 
