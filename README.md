@@ -4,20 +4,15 @@
 *Information Systems Student @ UNIFEI*
 
 Calisthenics. Stoicism. Nature. Tech. Minimalism.
+
 *Crossing borders:* 🇧🇷 🇺🇸 🇪🇸 🇫🇷
 
 
 <table align="center" border="0">
   <tr>
-    <td align="center" valign="top" width="50%">
-      <h3>💻 Learning Journey</h3>
-      <a href="https://github.com/LopesHPedro/python-skill-up">Python</a><br><br>
-      <a href="https://github.com/LopesHPedro/dsa360">Data Structure and Algorithms</a><br><br>
-      <a href="https://github.com/LopesHPedro/gfg-160-desafio">GFG 160 - Challenges</a>
-    </td>
-    <td align="center" valign="top" width="50%">
+    <td align="center" valign="top">
       <h3>📂 Projects</h3>
-      <a href="https://github.com/LopesHPedro/python-skill-up/tree/master/projetos/todo_cli">Simple Todo</a><br><br>
+      <a href="https://github.com/LopesHPedro/sales-analysis">Sales Data Analysis</a><br><br>
     </td>
   </tr>
 </table>
