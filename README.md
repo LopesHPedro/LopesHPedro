@@ -12,7 +12,7 @@ Calisthenics. Stoicism. Nature. Tech. Minimalism.
   <tr>
     <td align="center" valign="top">
       <h3>📂 Projects</h3>
-      <a href="https://github.com/LopesHPedro/sales-analysis">Sales Data Analysis</a><br><br>
+      <a href="https://github.com/LopesHPedro/sales-analysis">Olist Data Analysis</a><br><br>
     </td>
   </tr>
 </table>
