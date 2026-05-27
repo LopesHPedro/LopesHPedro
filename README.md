@@ -19,7 +19,6 @@ Calisthenics. Stoicism. Nature. Tech. Minimalism.
 
 ### 📱 Social
 <a href="https://www.linkedin.com/in/lopeshpedro/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="160"></a>
-<a href="https://vsco.co/lopeshpedro/spaces"><img src="https://img.shields.io/badge/vsco-%23000000.svg?style=for-the-badge&logo=vsco&logoColor=white" width="145"></a>
 
 
 *"Live as if life were a moment, learn as if life were an eternity."*
